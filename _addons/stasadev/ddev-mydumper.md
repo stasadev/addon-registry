@@ -1,12 +1,17 @@
 ---
 title: stasadev/ddev-mydumper
-description: DDEV MyDumper Add-on
-stars: 2
+github_url: https://github.com/stasadev/ddev-mydumper
+description: "MySQL Logical Backup Tool"
+user: stasadev
+repo: ddev-mydumper
 categories:
   - community
+created_at: 2024-08-22
+updated_at: 2025-02-08
+stars: 2
 ---
 
-[![tests](https://github.com/stasadev/ddev-mydumper/actions/workflows/tests.yml/badge.svg)](https://github.com/stasadev/ddev-mydumper/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2024.svg)
+[![tests](https://github.com/stasadev/ddev-mydumper/actions/workflows/tests.yml/badge.svg)](https://github.com/stasadev/ddev-mydumper/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2025.svg)
 
 # DDEV MyDumper Add-on
 
@@ -38,6 +43,15 @@ Then restart the project
 ddev restart
 ```
 
+
+With DDEV v1.23.5+ you can choose a different MyDumper tag, the command below creates a `.ddev/.env.mydumper` file that you can commit:
+
+```sh
+ddev dotenv set .ddev/.env.mydumper --mydumper-tag v0.17.2-19
+ddev add-on get stasadev/ddev-mydumper
+ddev restart
+```
+
 ## Usage
 
 After installation, you can access MyDumper commands:
@@ -45,8 +59,9 @@ After installation, you can access MyDumper commands:
 - `ddev mydumper`
 - `ddev myloader`
 
-MyDumper config can be adjusted with [mydumper.cnf](./mydumper/mydumper.cnf).
+MyDumper config can be adjusted with [mydumper.cnf](https://github.com/stasadev/ddev-mydumper/blob/main/./mydumper/mydumper.cnf).
 
 See [MyDumper Wiki](https://github.com/mydumper/mydumper/wiki) for detailed usage.
 
 **Contributed and maintained by [@stasadev](https://github.com/stasadev)**
+

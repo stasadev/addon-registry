@@ -1,9 +1,14 @@
 ---
 title: rfay/ddev-php-patch-build
-description: Build a patch version of PHP for use with DDEV
-stars: 0
+github_url: https://github.com/rfay/ddev-php-patch-build
+description: "Build a patch version of PHP for use with DDEV"
+user: rfay
+repo: ddev-php-patch-build
 categories:
   - community
+created_at: 2023-09-17
+updated_at: 2024-12-06
+stars: 0
 ---
 
 [![tests](https://github.com/rfay/ddev-php-patch-build/actions/workflows/tests.yml/badge.svg)](https://github.com/rfay/ddev-php-patch-build/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2025.svg)
@@ -46,7 +51,8 @@ You can choose a different PHP version, the command below creates a `.ddev/.env.
 * `config.php-yaml`
 * `Dockerfile.php-patch-build`
 * A test suite in [test.bats](tests/test.bats) that makes sure the service continues to work as expected.
-* [Github actions setup](.github/workflows/tests.yml) so that the tests run automatically when you push to the repository.
+* [Github actions setup](https://github.com/rfay/ddev-php-patch-build/blob/main/.github/workflows/tests.yml) so that the tests run automatically when you push to the repository.
 
 
 **Contributed and maintained by [@rfay](https://github.com/rfay)**
+

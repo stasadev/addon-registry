@@ -1,9 +1,14 @@
 ---
 title: ddev/ddev-redis
-description: Redis service for DDEV
-stars: 24
+github_url: https://github.com/ddev/ddev-redis
+description: "Redis service for DDEV"
+user: ddev
+repo: ddev-redis
 categories:
   - official
+created_at: 2022-01-26
+updated_at: 2025-02-09
+stars: 25
 ---
 
 [![tests](https://github.com/ddev/ddev-redis/actions/workflows/tests.yml/badge.svg)](https://github.com/ddev/ddev-redis/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2024.svg)
@@ -39,9 +44,9 @@ With DDEV v1.23.5+ you can choose a different Redis tag, the command below creat
 
 ## Explanation
 
-This Redis recipe for [DDEV](https://ddev.readthedocs.io) installs a [`.ddev/docker-compose.redis.yaml`](docker-compose.redis.yaml) using the `redis` Docker image.
+This Redis recipe for [DDEV](https://ddev.readthedocs.io) installs a [`.ddev/docker-compose.redis.yaml`](https://github.com/ddev/ddev-redis/blob/main/docker-compose.redis.yaml) using the `redis` Docker image.
 
-Persistence is disabled by default (see [redis.conf](./redis/redis.conf)), follow the config instructions to enable it, or switch to https://github.com/ddev/ddev-redis-7 where it is enabled by default.
+Persistence is disabled by default (see [redis.conf](https://github.com/ddev/ddev-redis/blob/main/./redis/redis.conf)), follow the config instructions to enable it, or switch to https://github.com/ddev/ddev-redis-7 where it is enabled by default.
 
 ## Interacting with Redis
 
@@ -52,3 +57,4 @@ Persistence is disabled by default (see [redis.conf](./redis/redis.conf)), follo
 **Contributed and maintained by [@hussainweb](https://github.com/hussainweb) based on the original [ddev-contrib recipe](https://github.com/ddev/ddev-contrib/tree/master/docker-compose-services/redis) by [@gormus](https://github.com/gormus)**
 
 **Co-maintained by [@stasadev](https://github.com/stasadev)**
+
