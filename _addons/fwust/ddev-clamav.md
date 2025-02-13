@@ -4,8 +4,7 @@ github_url: https://github.com/fwust/ddev-clamav
 description: "ClamAV integration for DDEV"
 user: fwust
 repo: ddev-clamav
-categories:
-  - community
+type: contrib
 created_at: 2023-10-27
 updated_at: 2025-02-12
 stars: 0
