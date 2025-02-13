@@ -7,7 +7,7 @@ repo: ddev-keycloak
 categories:
   - community
 created_at: 2023-08-24
-updated_at: 2024-12-24
+updated_at: 2025-02-12
 stars: 0
 ---
 

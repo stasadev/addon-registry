@@ -7,7 +7,7 @@ repo: ddev-wkhtmltox
 categories:
   - community
 created_at: 2022-12-15
-updated_at: 2024-12-24
+updated_at: 2025-02-12
 stars: 3
 ---
 

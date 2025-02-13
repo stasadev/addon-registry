@@ -7,7 +7,7 @@ repo: ddev-clamav
 categories:
   - community
 created_at: 2023-10-27
-updated_at: 2024-12-19
+updated_at: 2025-02-12
 stars: 0
 ---
 

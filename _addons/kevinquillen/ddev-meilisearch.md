@@ -7,8 +7,8 @@ repo: ddev-meilisearch
 categories:
   - community
 created_at: 2024-01-26
-updated_at: 2025-02-03
-stars: 5
+updated_at: 2025-02-12
+stars: 6
 ---
 
 [![tests](https://github.com/kevinquillen/ddev-meilisearch/actions/workflows/tests.yml/badge.svg)](https://github.com/kevinquillen/ddev-meilisearch/actions/workflows/tests.yml)
