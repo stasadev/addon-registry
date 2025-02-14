@@ -4,7 +4,7 @@ github_url: https://github.com/tyler36/ddev-vitest
 description: "A helper add-on for projects using Vitest"
 user: tyler36
 repo: ddev-vitest
-repo_id: %!s(int64=894807367)
+repo_id: 894807367
 type: contrib
 created_at: 2024-11-27
 updated_at: 2025-01-12

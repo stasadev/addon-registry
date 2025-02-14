@@ -4,7 +4,7 @@ github_url: https://github.com/rfay/ddev-php-patch-build
 description: "Build a patch version of PHP for use with DDEV"
 user: rfay
 repo: ddev-php-patch-build
-repo_id: %!s(int64=692610647)
+repo_id: 692610647
 type: contrib
 created_at: 2023-09-17
 updated_at: 2024-12-06

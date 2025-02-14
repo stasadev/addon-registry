@@ -4,7 +4,7 @@ github_url: https://github.com/ddev/ddev-varnish
 description: "Varnish reverse proxy add-on for DDEV"
 user: ddev
 repo: ddev-varnish
-repo_id: %!s(int64=475027974)
+repo_id: 475027974
 type: official
 created_at: 2022-03-28
 updated_at: 2025-01-21

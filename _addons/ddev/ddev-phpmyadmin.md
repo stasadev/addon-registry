@@ -4,7 +4,7 @@ github_url: https://github.com/ddev/ddev-phpmyadmin
 description: "phpMyAdmin web-based database browser for DDEV"
 user: ddev
 repo: ddev-phpmyadmin
-repo_id: %!s(int64=653879988)
+repo_id: 653879988
 type: official
 created_at: 2023-06-15
 updated_at: 2025-02-13

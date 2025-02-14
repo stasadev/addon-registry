@@ -4,7 +4,7 @@ github_url: https://github.com/Metadrop/ddev-newman
 description: "Allows running newman tests on ddev setups"
 user: Metadrop
 repo: ddev-newman
-repo_id: %!s(int64=806591742)
+repo_id: 806591742
 type: contrib
 created_at: 2024-05-27
 updated_at: 2024-10-01

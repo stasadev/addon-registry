@@ -4,7 +4,7 @@ github_url: https://github.com/vinugawade/ddev-civicrm-cli-tools
 description: "Tools to streamline CiviCRM workflows with seamless integration and efficient task management."
 user: vinugawade
 repo: ddev-civicrm-cli-tools
-repo_id: %!s(int64=908624626)
+repo_id: 908624626
 type: contrib
 created_at: 2024-12-26
 updated_at: 2025-01-23

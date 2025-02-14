@@ -4,7 +4,7 @@ github_url: https://github.com/tyler36/ddev-cypress
 description: "Cypress E2E testing for use with DDEV"
 user: tyler36
 repo: ddev-cypress
-repo_id: %!s(int64=473510790)
+repo_id: 473510790
 type: contrib
 created_at: 2022-03-24
 updated_at: 2025-01-06

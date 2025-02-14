@@ -4,7 +4,7 @@ github_url: https://github.com/ddev/ddev-adminer
 description: "AdminerEvo web-based database browser for DDEV"
 user: ddev
 repo: ddev-adminer
-repo_id: %!s(int64=468763817)
+repo_id: 468763817
 type: official
 created_at: 2022-03-11
 updated_at: 2025-02-13

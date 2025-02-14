@@ -4,7 +4,7 @@ github_url: https://github.com/machine-rc/ddev-graphql
 description: "GraphQL service for ddev stack"
 user: machine-rc
 repo: ddev-graphql
-repo_id: %!s(int64=812082669)
+repo_id: 812082669
 type: contrib
 created_at: 2024-06-07
 updated_at: 2024-06-08

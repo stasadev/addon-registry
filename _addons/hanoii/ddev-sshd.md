@@ -4,7 +4,7 @@ github_url: https://github.com/hanoii/ddev-sshd
 description: "Install ssh server on the web container"
 user: hanoii
 repo: ddev-sshd
-repo_id: %!s(int64=673792487)
+repo_id: 673792487
 type: contrib
 created_at: 2023-08-02
 updated_at: 2024-12-03

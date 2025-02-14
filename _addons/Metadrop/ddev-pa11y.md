@@ -4,7 +4,7 @@ github_url: https://github.com/Metadrop/ddev-pa11y
 description: "Aljibe ddev addon to add pa11y service"
 user: Metadrop
 repo: ddev-pa11y
-repo_id: %!s(int64=783100470)
+repo_id: 783100470
 type: contrib
 created_at: 2024-04-07
 updated_at: 2024-10-30

@@ -4,7 +4,7 @@ github_url: https://github.com/ssmarco/ddev-apache-tika
 description: "DDEV Apache Tika"
 user: ssmarco
 repo: ddev-apache-tika
-repo_id: %!s(int64=762886290)
+repo_id: 762886290
 type: contrib
 created_at: 2024-02-25
 updated_at: 2025-01-31

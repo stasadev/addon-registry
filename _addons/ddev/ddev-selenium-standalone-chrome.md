@@ -4,7 +4,7 @@ github_url: https://github.com/ddev/ddev-selenium-standalone-chrome
 description: "A DDEV service for running standalone Chrome"
 user: ddev
 repo: ddev-selenium-standalone-chrome
-repo_id: %!s(int64=563535124)
+repo_id: 563535124
 type: official
 created_at: 2022-11-08
 updated_at: 2025-02-11

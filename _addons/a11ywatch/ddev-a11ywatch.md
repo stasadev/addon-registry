@@ -4,7 +4,7 @@ github_url: https://github.com/a11ywatch/ddev-a11ywatch
 description: "A11yWatch ddev addon"
 user: a11ywatch
 repo: ddev-a11ywatch
-repo_id: %!s(int64=596553504)
+repo_id: 596553504
 type: contrib
 created_at: 2023-02-02
 updated_at: 2025-02-12

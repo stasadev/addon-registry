@@ -4,7 +4,7 @@ github_url: https://github.com/Metadrop/ddev-lighthouse
 description: "Lighthouse ddev addon based on patrickhulce/lhci-client image"
 user: Metadrop
 repo: ddev-lighthouse
-repo_id: %!s(int64=782495515)
+repo_id: 782495515
 type: contrib
 created_at: 2024-04-05
 updated_at: 2025-01-20

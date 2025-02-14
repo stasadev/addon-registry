@@ -4,7 +4,7 @@ github_url: https://github.com/b13/ddev-stirling-pdf
 description: "Adds Stirling PDF to ddev"
 user: b13
 repo: ddev-stirling-pdf
-repo_id: %!s(int64=782224570)
+repo_id: 782224570
 type: contrib
 created_at: 2024-04-04
 updated_at: 2025-02-08

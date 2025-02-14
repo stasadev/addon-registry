@@ -4,7 +4,7 @@ github_url: https://github.com/machine-rc/ddev-dotnet
 description: ".NET service for ddev stack "
 user: machine-rc
 repo: ddev-dotnet
-repo_id: %!s(int64=812302710)
+repo_id: 812302710
 type: contrib
 created_at: 2024-06-08
 updated_at: 2024-06-08

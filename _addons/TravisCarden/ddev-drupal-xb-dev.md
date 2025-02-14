@@ -4,7 +4,7 @@ github_url: https://github.com/TravisCarden/ddev-drupal-xb-dev
 description: "A DDEV add-on for Drupal Experience Builder module development and evaluation"
 user: TravisCarden
 repo: ddev-drupal-xb-dev
-repo_id: %!s(int64=827380616)
+repo_id: 827380616
 type: contrib
 created_at: 2024-07-11
 updated_at: 2025-02-13

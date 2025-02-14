@@ -4,7 +4,7 @@ github_url: https://github.com/gebruederheitz/ddev-taskfile
 description: "Provide taskfile.dev for ddev projects"
 user: gebruederheitz
 repo: ddev-taskfile
-repo_id: %!s(int64=594339485)
+repo_id: 594339485
 type: contrib
 created_at: 2023-01-28
 updated_at: 2024-07-30

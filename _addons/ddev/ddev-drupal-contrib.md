@@ -4,7 +4,7 @@ github_url: https://github.com/ddev/ddev-drupal-contrib
 description: "DDEV integration for developing Drupal contrib projects"
 user: ddev
 repo: ddev-drupal-contrib
-repo_id: %!s(int64=634259708)
+repo_id: 634259708
 type: official
 created_at: 2023-04-29
 updated_at: 2025-02-01

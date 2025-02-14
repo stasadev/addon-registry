@@ -4,7 +4,7 @@ github_url: https://github.com/MurzNN/ddev-pgadmin
 description: "pgAdmin Add-on For DDEV: PostgreSQL database management web interface"
 user: MurzNN
 repo: ddev-pgadmin
-repo_id: %!s(int64=834866824)
+repo_id: 834866824
 type: contrib
 created_at: 2024-07-28
 updated_at: 2024-07-29

@@ -4,7 +4,7 @@ github_url: https://github.com/madebydaniz/ddev-orthanc
 description: "Orthanc service for DDEV"
 user: madebydaniz
 repo: ddev-orthanc
-repo_id: %!s(int64=719515566)
+repo_id: 719515566
 type: contrib
 created_at: 2023-11-16
 updated_at: 2025-02-13

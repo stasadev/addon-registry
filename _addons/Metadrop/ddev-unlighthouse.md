@@ -4,7 +4,7 @@ github_url: https://github.com/Metadrop/ddev-unlighthouse
 description: "Unlighthouse service for Aljibe"
 user: Metadrop
 repo: ddev-unlighthouse
-repo_id: %!s(int64=811929881)
+repo_id: 811929881
 type: contrib
 created_at: 2024-06-07
 updated_at: 2024-12-17

@@ -4,7 +4,7 @@ github_url: https://github.com/Metadrop/ddev-mkdocs
 description: "ddev addon to provide a mkdocs container for project documentation"
 user: Metadrop
 repo: ddev-mkdocs
-repo_id: %!s(int64=719213199)
+repo_id: 719213199
 type: contrib
 created_at: 2023-11-15
 updated_at: 2025-01-20

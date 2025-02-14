@@ -4,7 +4,7 @@ github_url: https://github.com/bricebou/ddev-manticoresearch
 description: "Manticoresearch add-on for DDEV"
 user: bricebou
 repo: ddev-manticoresearch
-repo_id: %!s(int64=768156076)
+repo_id: 768156076
 type: contrib
 created_at: 2024-03-06
 updated_at: 2025-01-22

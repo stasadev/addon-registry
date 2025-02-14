@@ -4,7 +4,7 @@ github_url: https://github.com/ddev/ddev-xhgui
 description: "XHGui service for a DDEV project"
 user: ddev
 repo: ddev-xhgui
-repo_id: %!s(int64=620681072)
+repo_id: 620681072
 type: official
 created_at: 2023-03-29
 updated_at: 2025-02-13
