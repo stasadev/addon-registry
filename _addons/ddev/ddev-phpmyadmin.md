@@ -1,12 +1,12 @@
 ---
 title: ddev/ddev-phpmyadmin
 github_url: https://github.com/ddev/ddev-phpmyadmin
-description: "phpMyAdmin Add-on For DDEV"
+description: "phpMyAdmin web-based database browser for DDEV"
 user: ddev
 repo: ddev-phpmyadmin
 type: official
 created_at: 2023-06-15
-updated_at: 2025-02-04
+updated_at: 2025-02-13
 stars: 11
 ---
 

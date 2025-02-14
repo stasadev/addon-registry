@@ -1,12 +1,12 @@
 ---
 title: ddev/ddev-adminer
 github_url: https://github.com/ddev/ddev-adminer
-description: "AdminerEvo service for DDEV"
+description: "AdminerEvo web-based database browser for DDEV"
 user: ddev
 repo: ddev-adminer
 type: official
 created_at: 2022-03-11
-updated_at: 2024-11-22
+updated_at: 2025-02-13
 stars: 8
 ---
 

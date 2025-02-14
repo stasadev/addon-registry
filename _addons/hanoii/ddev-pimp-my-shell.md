@@ -6,7 +6,7 @@ user: hanoii
 repo: ddev-pimp-my-shell
 type: contrib
 created_at: 2024-03-25
-updated_at: 2025-02-07
+updated_at: 2025-02-13
 stars: 2
 ---
 
