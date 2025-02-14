@@ -4,6 +4,7 @@ github_url: https://github.com/tyler36/ddev-vscode-devcontainer
 description: "Open a DDEV container in VSCode"
 user: tyler36
 repo: ddev-vscode-devcontainer
+repo_id: %!s(int64=623859832)
 type: contrib
 created_at: 2023-04-05
 updated_at: 2024-10-25

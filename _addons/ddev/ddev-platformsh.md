@@ -4,6 +4,7 @@ github_url: https://github.com/ddev/ddev-platformsh
 description: "Add integration with Platform.sh hosting service"
 user: ddev
 repo: ddev-platformsh
+repo_id: %!s(int64=489460881)
 type: official
 created_at: 2022-05-06
 updated_at: 2024-11-06

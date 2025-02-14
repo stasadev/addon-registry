@@ -4,6 +4,7 @@ github_url: https://github.com/ddev/ddev-elasticsearch
 description: "Elasticsearch add-on for DDEV"
 user: ddev
 repo: ddev-elasticsearch
+repo_id: %!s(int64=470760591)
 type: official
 created_at: 2022-03-16
 updated_at: 2024-12-17

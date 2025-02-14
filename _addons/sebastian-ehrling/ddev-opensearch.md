@@ -4,6 +4,7 @@ github_url: https://github.com/sebastian-ehrling/ddev-opensearch
 description: "Opensearch add-on for DDEV"
 user: sebastian-ehrling
 repo: ddev-opensearch
+repo_id: %!s(int64=501578857)
 type: contrib
 created_at: 2022-06-09
 updated_at: 2024-02-28

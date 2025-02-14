@@ -4,6 +4,7 @@ github_url: https://github.com/javivf/ddev-keycloak
 description: "Keycloak service for DDEV"
 user: javivf
 repo: ddev-keycloak
+repo_id: %!s(int64=682633589)
 type: contrib
 created_at: 2023-08-24
 updated_at: 2025-02-12

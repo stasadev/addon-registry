@@ -4,6 +4,7 @@ github_url: https://github.com/OpenForgeProject/ddev-gum
 description: "A tool for glamorous shell scripts 🎀 like DDEV web commands"
 user: OpenForgeProject
 repo: ddev-gum
+repo_id: %!s(int64=691401674)
 type: contrib
 created_at: 2023-09-14
 updated_at: 2025-01-28

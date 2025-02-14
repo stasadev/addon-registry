@@ -4,6 +4,7 @@ github_url: https://github.com/ddev/ddev-redis-commander
 description: "Redis Commander for use with DDEV Redis service"
 user: ddev
 repo: ddev-redis-commander
+repo_id: %!s(int64=472932399)
 type: official
 created_at: 2022-03-22
 updated_at: 2024-12-17

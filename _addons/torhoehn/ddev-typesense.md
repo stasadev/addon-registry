@@ -4,6 +4,7 @@ github_url: https://github.com/torhoehn/ddev-typesense
 description: "Typesense add-on for ddev"
 user: torhoehn
 repo: ddev-typesense
+repo_id: %!s(int64=688424296)
 type: contrib
 created_at: 2023-09-07
 updated_at: 2025-01-19

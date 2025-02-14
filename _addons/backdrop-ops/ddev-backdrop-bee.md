@@ -4,6 +4,7 @@ github_url: https://github.com/backdrop-ops/ddev-backdrop-bee
 description: "Install bee for Backdrop sites on ddev."
 user: backdrop-ops
 repo: ddev-backdrop-bee
+repo_id: %!s(int64=873926344)
 type: contrib
 created_at: 2024-10-17
 updated_at: 2024-10-24

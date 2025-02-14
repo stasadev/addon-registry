@@ -4,6 +4,7 @@ github_url: https://github.com/bserem/ddev-selenium-standalone-firefox
 description: "A DDEV service for running standalone Firefox"
 user: bserem
 repo: ddev-selenium-standalone-firefox
+repo_id: %!s(int64=615379440)
 type: contrib
 created_at: 2023-03-17
 updated_at: 2023-05-08

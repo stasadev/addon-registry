@@ -4,6 +4,7 @@ github_url: https://github.com/ddev/ddev-opensearch
 description: "OpenSearch add-on for DDEV"
 user: ddev
 repo: ddev-opensearch
+repo_id: %!s(int64=648147062)
 type: official
 created_at: 2023-06-01
 updated_at: 2024-10-19

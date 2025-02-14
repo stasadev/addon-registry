@@ -4,6 +4,7 @@ github_url: https://github.com/thursdaybw/ddev-tightvnc
 description: "TightVNC server for DDEV"
 user: thursdaybw
 repo: ddev-tightvnc
+repo_id: %!s(int64=818857936)
 type: contrib
 created_at: 2024-06-23
 updated_at: 2024-06-30

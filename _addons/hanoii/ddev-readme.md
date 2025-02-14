@@ -4,6 +4,7 @@ github_url: https://github.com/hanoii/ddev-readme
 description: "An opinionated README formatter"
 user: hanoii
 repo: ddev-readme
+repo_id: %!s(int64=769217362)
 type: contrib
 created_at: 2024-03-08
 updated_at: 2024-11-25

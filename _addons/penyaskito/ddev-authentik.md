@@ -4,6 +4,7 @@ github_url: https://github.com/penyaskito/ddev-authentik
 description: "Authentik identity provider add-on for DDEV"
 user: penyaskito
 repo: ddev-authentik
+repo_id: %!s(int64=826853007)
 type: contrib
 created_at: 2024-07-10
 updated_at: 2025-01-17

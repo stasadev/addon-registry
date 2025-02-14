@@ -4,6 +4,7 @@ github_url: https://github.com/haase-fabian/ddev-neos
 description: "neos environment variables for ddev"
 user: haase-fabian
 repo: ddev-neos
+repo_id: %!s(int64=535660811)
 type: contrib
 created_at: 2022-09-12
 updated_at: 2024-10-28

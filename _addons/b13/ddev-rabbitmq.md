@@ -4,6 +4,7 @@ github_url: https://github.com/b13/ddev-rabbitmq
 description: "Adds a rabbitmq service to ddev"
 user: b13
 repo: ddev-rabbitmq
+repo_id: %!s(int64=706339942)
 type: contrib
 created_at: 2023-10-17
 updated_at: 2025-02-08

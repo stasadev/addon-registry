@@ -4,6 +4,7 @@ github_url: https://github.com/hanoii/ddev-pimp-my-shell
 description: "A collection of tools I like to have on ddev."
 user: hanoii
 repo: ddev-pimp-my-shell
+repo_id: %!s(int64=777249734)
 type: contrib
 created_at: 2024-03-25
 updated_at: 2025-02-13

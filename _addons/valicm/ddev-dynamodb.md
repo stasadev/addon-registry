@@ -4,6 +4,7 @@ github_url: https://github.com/valicm/ddev-dynamodb
 description: "DynamoDB container for DDEV"
 user: valicm
 repo: ddev-dynamodb
+repo_id: %!s(int64=696750542)
 type: contrib
 created_at: 2023-09-26
 updated_at: 2023-09-26

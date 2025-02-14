@@ -4,6 +4,7 @@ github_url: https://github.com/biati-digital/ddev-wp-rename-tables-prefix
 description: "A db command for DDEV to rename tables prefix of WordPress installations"
 user: biati-digital
 repo: ddev-wp-rename-tables-prefix
+repo_id: %!s(int64=697222678)
 type: contrib
 created_at: 2023-09-27
 updated_at: 2024-12-22

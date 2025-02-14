@@ -4,6 +4,7 @@ github_url: https://github.com/julienloizelet/ddev-playwright
 description: "Playwright add-on for ddev"
 user: julienloizelet
 repo: ddev-playwright
+repo_id: %!s(int64=598383514)
 type: contrib
 created_at: 2023-02-07
 updated_at: 2025-01-08

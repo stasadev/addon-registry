@@ -4,6 +4,7 @@ github_url: https://github.com/s2b/ddev-vite-sidecar
 description: "DDEV add-on that exposes vite dev server on separate subdomain"
 user: s2b
 repo: ddev-vite-sidecar
+repo_id: %!s(int64=810242470)
 type: contrib
 created_at: 2024-06-04
 updated_at: 2025-02-01

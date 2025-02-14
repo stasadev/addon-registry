@@ -4,6 +4,7 @@ github_url: https://github.com/iljapolanskis/ddev-buggregator
 description: "Buggregator service for DDEV (similar to Ray, but free)"
 user: iljapolanskis
 repo: ddev-buggregator
+repo_id: %!s(int64=673257959)
 type: contrib
 created_at: 2023-08-01
 updated_at: 2024-10-28

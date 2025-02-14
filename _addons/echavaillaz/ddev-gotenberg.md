@@ -4,6 +4,7 @@ github_url: https://github.com/echavaillaz/ddev-gotenberg
 description: "Gotenberg service for DDEV."
 user: echavaillaz
 repo: ddev-gotenberg
+repo_id: %!s(int64=633840053)
 type: contrib
 created_at: 2023-04-28
 updated_at: 2025-02-01

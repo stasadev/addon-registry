@@ -4,6 +4,7 @@ github_url: https://github.com/tyler36/ddev-laravel-queue
 description: "Start a Laravel queue worker automatically in DDEV"
 user: tyler36
 repo: ddev-laravel-queue
+repo_id: %!s(int64=500674839)
 type: contrib
 created_at: 2022-06-07
 updated_at: 2025-01-06

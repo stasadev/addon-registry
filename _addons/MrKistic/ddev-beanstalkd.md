@@ -4,6 +4,7 @@ github_url: https://github.com/MrKistic/ddev-beanstalkd
 description: "Beanstalkd service add-on for DDEV (with arm64 support)"
 user: MrKistic
 repo: ddev-beanstalkd
+repo_id: %!s(int64=921505080)
 type: contrib
 created_at: 2025-01-24
 updated_at: 2025-01-24

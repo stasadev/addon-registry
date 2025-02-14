@@ -4,6 +4,7 @@ github_url: https://github.com/ddev/ddev-solr
 description: "Apache Solr service for DDEV"
 user: ddev
 repo: ddev-solr
+repo_id: %!s(int64=656057518)
 type: official
 created_at: 2023-06-20
 updated_at: 2025-02-11

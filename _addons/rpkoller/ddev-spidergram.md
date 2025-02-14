@@ -4,6 +4,7 @@ github_url: https://github.com/rpkoller/ddev-spidergram
 description: "Use Spidergram within DDEV"
 user: rpkoller
 repo: ddev-spidergram
+repo_id: %!s(int64=652014214)
 type: contrib
 created_at: 2023-06-10
 updated_at: 2025-01-22

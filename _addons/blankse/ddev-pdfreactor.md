@@ -4,6 +4,7 @@ github_url: https://github.com/blankse/ddev-pdfreactor
 description: "PDFreactor service for DDEV"
 user: blankse
 repo: ddev-pdfreactor
+repo_id: %!s(int64=474439706)
 type: contrib
 created_at: 2022-03-26
 updated_at: 2024-10-24

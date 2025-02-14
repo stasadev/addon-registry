@@ -4,6 +4,7 @@ github_url: https://github.com/julienloizelet/ddev-portainer
 description: "Portainer add-on for ddev"
 user: julienloizelet
 repo: ddev-portainer
+repo_id: %!s(int64=598874816)
 type: contrib
 created_at: 2023-02-08
 updated_at: 2024-10-25

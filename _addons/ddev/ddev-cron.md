@@ -4,6 +4,7 @@ github_url: https://github.com/ddev/ddev-cron
 description: "Schedule commands to execute within DDEV"
 user: ddev
 repo: ddev-cron
+repo_id: %!s(int64=493892311)
 type: official
 created_at: 2022-05-19
 updated_at: 2025-02-07

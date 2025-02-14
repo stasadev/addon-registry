@@ -4,6 +4,7 @@ github_url: https://github.com/rfay/ddev-drushonhost
 description: "DDEV Add-on to Allow using drush on the host"
 user: rfay
 repo: ddev-drushonhost
+repo_id: %!s(int64=717537366)
 type: contrib
 created_at: 2023-11-11
 updated_at: 2024-07-09
