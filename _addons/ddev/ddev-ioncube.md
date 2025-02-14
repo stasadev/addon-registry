@@ -5,6 +5,8 @@ description: "IonCube loaders for DDEV"
 user: ddev
 repo: ddev-ioncube
 repo_id: 697741707
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2023-09-28
 updated_at: 2024-10-24

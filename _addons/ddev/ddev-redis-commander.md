@@ -5,6 +5,8 @@ description: "Redis Commander for use with DDEV Redis service"
 user: ddev
 repo: ddev-redis-commander
 repo_id: 472932399
+ddev_version_constraint: ""
+dependencies: ["redis"]
 type: official
 created_at: 2022-03-22
 updated_at: 2024-12-17

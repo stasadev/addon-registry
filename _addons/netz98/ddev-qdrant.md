@@ -5,6 +5,8 @@ description: "ddev qdrant"
 user: netz98
 repo: ddev-qdrant
 repo_id: 811850723
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-06-07
 updated_at: 2024-07-15

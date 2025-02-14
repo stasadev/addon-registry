@@ -5,6 +5,8 @@ description: "Helper add-on to add Gitpod config."
 user: tyler36
 repo: ddev-gitpod-setup
 repo_id: 840226121
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-08-09
 updated_at: 2025-01-09

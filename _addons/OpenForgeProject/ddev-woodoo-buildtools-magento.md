@@ -5,6 +5,8 @@ description: "ddev Addon to build Magento projects without headache"
 user: OpenForgeProject
 repo: ddev-woodoo-buildtools-magento
 repo_id: 614074383
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-03-14
 updated_at: 2024-12-19

@@ -5,6 +5,8 @@ description: "TYPO3 solr configuration"
 user: carsten-walther
 repo: ddev-typo3-solr
 repo_id: 691593791
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-09-14
 updated_at: 2024-11-08

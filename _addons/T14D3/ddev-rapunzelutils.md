@@ -5,6 +5,8 @@ description: ""
 user: T14D3
 repo: ddev-rapunzelutils
 repo_id: 930204303
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2025-02-10
 updated_at: 2025-02-11

@@ -5,6 +5,8 @@ description: "Gander - preconfigured OpenTelemetry stack with Grafana Tempo / Pr
 user: tag1consulting
 repo: ddev-gander
 repo_id: 722773190
+ddev_version_constraint: ""
+dependencies: ["ddev/ddev-selenium-standalone-chrome"]
 type: contrib
 created_at: 2023-11-23
 updated_at: 2025-01-23

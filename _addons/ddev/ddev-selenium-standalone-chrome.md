@@ -5,6 +5,8 @@ description: "A DDEV service for running standalone Chrome"
 user: ddev
 repo: ddev-selenium-standalone-chrome
 repo_id: 563535124
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2022-11-08
 updated_at: 2025-02-11

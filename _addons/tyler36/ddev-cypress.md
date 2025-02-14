@@ -5,6 +5,8 @@ description: "Cypress E2E testing for use with DDEV"
 user: tyler36
 repo: ddev-cypress
 repo_id: 473510790
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2022-03-24
 updated_at: 2025-01-06

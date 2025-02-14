@@ -5,6 +5,8 @@ description: "Ddev addon for stripe"
 user: Tapkaros-rs
 repo: ddev-stripe
 repo_id: 752762294
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-02-04
 updated_at: 2024-05-07

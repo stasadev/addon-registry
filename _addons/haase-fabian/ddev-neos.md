@@ -5,6 +5,8 @@ description: "neos environment variables for ddev"
 user: haase-fabian
 repo: ddev-neos
 repo_id: 535660811
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2022-09-12
 updated_at: 2024-10-28

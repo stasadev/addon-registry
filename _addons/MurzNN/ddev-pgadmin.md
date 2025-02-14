@@ -5,6 +5,8 @@ description: "pgAdmin Add-on For DDEV: PostgreSQL database management web interf
 user: MurzNN
 repo: ddev-pgadmin
 repo_id: 834866824
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-07-28
 updated_at: 2024-07-29

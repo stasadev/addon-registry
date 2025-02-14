@@ -5,6 +5,8 @@ description: "Basic Vite implementation for DDEV"
 user: tyler36
 repo: ddev-vite
 repo_id: 781313945
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-04-03
 updated_at: 2025-01-31

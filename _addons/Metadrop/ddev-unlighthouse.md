@@ -5,6 +5,8 @@ description: "Unlighthouse service for Aljibe"
 user: Metadrop
 repo: ddev-unlighthouse
 repo_id: 811929881
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-06-07
 updated_at: 2024-12-17

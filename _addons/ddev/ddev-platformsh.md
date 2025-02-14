@@ -5,6 +5,8 @@ description: "Add integration with Platform.sh hosting service"
 user: ddev
 repo: ddev-platformsh
 repo_id: 489460881
+ddev_version_constraint: ">= v1.23.3"
+dependencies: []
 type: official
 created_at: 2022-05-06
 updated_at: 2024-11-06

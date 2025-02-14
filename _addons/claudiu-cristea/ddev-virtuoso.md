@@ -5,6 +5,8 @@ description: "Virtuoso triplestore installation for DDEV"
 user: claudiu-cristea
 repo: ddev-virtuoso
 repo_id: 583941282
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2022-12-31
 updated_at: 2022-12-31

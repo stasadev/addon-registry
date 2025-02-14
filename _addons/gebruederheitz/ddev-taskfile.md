@@ -5,6 +5,8 @@ description: "Provide taskfile.dev for ddev projects"
 user: gebruederheitz
 repo: ddev-taskfile
 repo_id: 594339485
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-01-28
 updated_at: 2024-07-30

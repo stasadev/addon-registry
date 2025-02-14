@@ -5,6 +5,8 @@ description: "ddev addon to provide a backstopjs container for visual regression
 user: mmunz
 repo: ddev-backstopjs
 repo_id: 594003686
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-01-27
 updated_at: 2025-02-11

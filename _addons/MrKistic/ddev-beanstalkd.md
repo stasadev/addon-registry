@@ -5,6 +5,8 @@ description: "Beanstalkd service add-on for DDEV (with arm64 support)"
 user: MrKistic
 repo: ddev-beanstalkd
 repo_id: 921505080
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2025-01-24
 updated_at: 2025-01-24

@@ -5,6 +5,8 @@ description: "Drupal Apache Solr installation for DDEV (please consider ddev/dde
 user: ddev
 repo: ddev-drupal-solr
 repo_id: 447393726
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2022-01-12
 updated_at: 2025-01-30

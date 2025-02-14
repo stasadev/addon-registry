@@ -5,6 +5,8 @@ description: "Elasticvue service for DDEV"
 user: 2ndkauboy
 repo: ddev-elasticvue
 repo_id: 803841353
+ddev_version_constraint: ""
+dependencies: ["elasticsearch"]
 type: contrib
 created_at: 2024-05-21
 updated_at: 2024-10-24

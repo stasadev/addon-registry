@@ -5,6 +5,8 @@ description: "AdminerEvo web-based database browser for DDEV"
 user: ddev
 repo: ddev-adminer
 repo_id: 468763817
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2022-03-11
 updated_at: 2025-02-13

@@ -5,6 +5,8 @@ description: "Add pnpm to DDEV"
 user: envsa
 repo: ddev-pnpm
 repo_id: 716421197
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-11-09
 updated_at: 2025-01-09

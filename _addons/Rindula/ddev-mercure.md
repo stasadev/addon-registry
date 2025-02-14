@@ -5,6 +5,8 @@ description: "A Mercure Server based on the official docker image from https://m
 user: Rindula
 repo: ddev-mercure
 repo_id: 508436797
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2022-06-28
 updated_at: 2024-10-15

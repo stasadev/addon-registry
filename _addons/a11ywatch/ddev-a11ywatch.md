@@ -5,6 +5,8 @@ description: "A11yWatch ddev addon"
 user: a11ywatch
 repo: ddev-a11ywatch
 repo_id: 596553504
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-02-02
 updated_at: 2025-02-12

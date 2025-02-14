@@ -5,6 +5,8 @@ description: "Deno is the open-source JavaScript runtime for the modern web. Now
 user: OpenForgeProject
 repo: ddev-deno
 repo_id: 862515219
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-09-24
 updated_at: 2024-11-21

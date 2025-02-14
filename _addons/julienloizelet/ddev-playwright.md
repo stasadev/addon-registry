@@ -5,6 +5,8 @@ description: "Playwright add-on for ddev"
 user: julienloizelet
 repo: ddev-playwright
 repo_id: 598383514
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-02-07
 updated_at: 2025-01-08

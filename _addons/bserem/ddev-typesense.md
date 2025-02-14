@@ -5,6 +5,8 @@ description: "WIP: Typesense addon for DDEV"
 user: bserem
 repo: ddev-typesense
 repo_id: 521173968
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2022-08-04
 updated_at: 2023-01-13

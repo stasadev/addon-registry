@@ -5,6 +5,8 @@ description: "Support HTTP/HTTPS proxies with DDEV (obsolete)"
 user: ddev
 repo: ddev-proxy-support
 repo_id: 514422736
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2022-07-15
 updated_at: 2025-02-11

@@ -5,6 +5,8 @@ description: "Diffy integration with DDEV"
 user: DiffyWebsite
 repo: ddev-diffy
 repo_id: 832381294
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-07-22
 updated_at: 2024-11-07

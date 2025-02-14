@@ -5,6 +5,8 @@ description: "Schedule commands to execute within DDEV"
 user: ddev
 repo: ddev-cron
 repo_id: 493892311
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2022-05-19
 updated_at: 2025-02-07

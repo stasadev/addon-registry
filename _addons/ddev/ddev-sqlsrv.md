@@ -5,6 +5,8 @@ description: "MS SQL server add-on for DDEV"
 user: ddev
 repo: ddev-sqlsrv
 repo_id: 618290272
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2023-03-24
 updated_at: 2025-01-27

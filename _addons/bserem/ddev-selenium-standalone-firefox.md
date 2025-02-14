@@ -5,6 +5,8 @@ description: "A DDEV service for running standalone Firefox"
 user: bserem
 repo: ddev-selenium-standalone-firefox
 repo_id: 615379440
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-03-17
 updated_at: 2023-05-08

@@ -5,6 +5,8 @@ description: "XHGui addon for DDEV - batteries included."
 user: oblakstudio
 repo: ddev-xhgui-pro
 repo_id: 776095983
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-03-22
 updated_at: 2024-11-11

@@ -5,6 +5,8 @@ description: "Unstructured self-hosted service for DDEV"
 user: robertoperuzzo
 repo: ddev-unstructured
 repo_id: 922180134
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2025-01-25
 updated_at: 2025-01-27

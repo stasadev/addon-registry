@@ -5,6 +5,8 @@ description: "MindsDB addon service for DDEV"
 user: meevagmbh
 repo: ddev-addon-mindsdb
 repo_id: 902241173
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-12-12
 updated_at: 2024-12-13

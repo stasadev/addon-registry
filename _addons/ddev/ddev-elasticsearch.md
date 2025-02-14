@@ -5,6 +5,8 @@ description: "Elasticsearch add-on for DDEV"
 user: ddev
 repo: ddev-elasticsearch
 repo_id: 470760591
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2022-03-16
 updated_at: 2024-12-17

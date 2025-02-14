@@ -5,6 +5,8 @@ description: "A collection of tools I like to have on ddev."
 user: hanoii
 repo: ddev-pimp-my-shell
 repo_id: 777249734
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-03-25
 updated_at: 2025-02-13

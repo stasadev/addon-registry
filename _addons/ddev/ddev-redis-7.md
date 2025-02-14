@@ -5,6 +5,8 @@ description: "Redis 7 service for DDEV"
 user: ddev
 repo: ddev-redis-7
 repo_id: 585919134
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2023-01-06
 updated_at: 2024-10-30

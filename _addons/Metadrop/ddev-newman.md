@@ -5,6 +5,8 @@ description: "Allows running newman tests on ddev setups"
 user: Metadrop
 repo: ddev-newman
 repo_id: 806591742
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-05-27
 updated_at: 2024-10-01

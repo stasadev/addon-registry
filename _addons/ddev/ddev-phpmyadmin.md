@@ -5,6 +5,8 @@ description: "phpMyAdmin web-based database browser for DDEV"
 user: ddev
 repo: ddev-phpmyadmin
 repo_id: 653879988
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2023-06-15
 updated_at: 2025-02-13

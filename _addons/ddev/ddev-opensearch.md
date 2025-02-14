@@ -5,6 +5,8 @@ description: "OpenSearch add-on for DDEV"
 user: ddev
 repo: ddev-opensearch
 repo_id: 648147062
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2023-06-01
 updated_at: 2024-10-19

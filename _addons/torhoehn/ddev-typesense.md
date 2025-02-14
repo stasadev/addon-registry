@@ -5,6 +5,8 @@ description: "Typesense add-on for ddev"
 user: torhoehn
 repo: ddev-typesense
 repo_id: 688424296
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-09-07
 updated_at: 2025-01-19

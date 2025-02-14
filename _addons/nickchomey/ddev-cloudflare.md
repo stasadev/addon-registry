@@ -5,6 +5,8 @@ description: "Cloudflare Tunnels for DDEV"
 user: nickchomey
 repo: ddev-cloudflare
 repo_id: 829567361
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-07-16
 updated_at: 2024-11-03

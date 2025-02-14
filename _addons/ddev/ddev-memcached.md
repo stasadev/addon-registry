@@ -5,6 +5,8 @@ description: "Install Memcached as an extra service in DDEV"
 user: ddev
 repo: ddev-memcached
 repo_id: 449470423
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2022-01-18
 updated_at: 2024-10-24

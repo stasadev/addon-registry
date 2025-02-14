@@ -5,6 +5,8 @@ description: "Adds a rabbitmq service to ddev"
 user: b13
 repo: ddev-rabbitmq
 repo_id: 706339942
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-10-17
 updated_at: 2025-02-08

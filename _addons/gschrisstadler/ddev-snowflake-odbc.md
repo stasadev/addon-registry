@@ -5,6 +5,8 @@ description: "Snowflake ODBC Extension for PHP"
 user: gschrisstadler
 repo: ddev-snowflake-odbc
 repo_id: 787472015
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-04-16
 updated_at: 2024-10-27

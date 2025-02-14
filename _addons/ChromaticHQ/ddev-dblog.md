@@ -5,6 +5,8 @@ description: "Easily view your db's general_log in ddev"
 user: ChromaticHQ
 repo: ddev-dblog
 repo_id: 741654296
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2024-01-10
 updated_at: 2024-11-16

@@ -5,6 +5,8 @@ description: "Typesense is a modern, privacy-friendly, open source search engine
 user: kevinquillen
 repo: ddev-typesense
 repo_id: 715328290
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-11-06
 updated_at: 2025-02-07

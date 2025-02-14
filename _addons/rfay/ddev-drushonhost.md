@@ -5,6 +5,8 @@ description: "DDEV Add-on to Allow using drush on the host"
 user: rfay
 repo: ddev-drushonhost
 repo_id: 717537366
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-11-11
 updated_at: 2024-07-09

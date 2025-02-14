@@ -5,6 +5,8 @@ description: "DDev plugin for timescaleDb (PostregeSQL plugin) which is set to w
 user: eakcize
 repo: ddev-timescaledb-with-mongo-and-mysql-fdw
 repo_id: 673722538
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-08-02
 updated_at: 2025-02-09

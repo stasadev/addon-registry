@@ -5,6 +5,8 @@ description: "This is a DDEV add-on for Seq, a self-hosted search, analysis, and
 user: happiness
 repo: ddev-seq
 repo_id: 930276969
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2025-02-10
 updated_at: 2025-02-10

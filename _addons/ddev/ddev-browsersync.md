@@ -5,6 +5,8 @@ description: "Auto-refresh HTTPS page on changes with DDEV"
 user: ddev
 repo: ddev-browsersync
 repo_id: 481804435
+ddev_version_constraint: ""
+dependencies: []
 type: official
 created_at: 2022-04-15
 updated_at: 2025-02-06

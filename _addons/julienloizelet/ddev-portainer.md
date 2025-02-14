@@ -5,6 +5,8 @@ description: "Portainer add-on for ddev"
 user: julienloizelet
 repo: ddev-portainer
 repo_id: 598874816
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-02-08
 updated_at: 2024-10-25

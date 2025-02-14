@@ -5,6 +5,8 @@ description: "Gotenberg service for DDEV."
 user: echavaillaz
 repo: ddev-gotenberg
 repo_id: 633840053
+ddev_version_constraint: ""
+dependencies: []
 type: contrib
 created_at: 2023-04-28
 updated_at: 2025-02-01
