@@ -43,4 +43,3 @@ ddev get ochorocho/ddev-frankenphp && ddev restart
 This way all domains configured by ddev will be used by frankenphp as well.
 
 `MERCURE_PUBLIC_URL` will use the `DDEV_PRIMARY_URL` (`$DDEV_PRIMARY_URL/.well-known/mercure`)
-

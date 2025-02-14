@@ -18,4 +18,3 @@ Provides the [SPX](https://github.com/NoiseByNorthwest/php-spx) extension for PH
 - Run `ddev restart` - this should install the addons into php
 - To enable, run `ddev spx on` and to disable run `ddev spx off`.
 - Once enabled, browse to `https://example.ddev.site/?SPX_KEY=dev&SPX_UI_URI=/`
-

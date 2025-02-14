@@ -60,4 +60,3 @@ If you have PHP and Drush installed on your host system and the environment vari
 On Drupal 8+, if you want to use `drush uli` on the host (or other Drush commands that require a default URI), you’ll need to set `DRUSH_OPTIONS_URI` on the host. For example, `export DRUSH_OPTIONS_URI=https://mysite.ddev.site`.
 
 **Contributed and maintained by [@rfay](https://github.com/rfay)**
-

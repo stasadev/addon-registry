@@ -20,4 +20,3 @@ This repository allows you to quickly install DynamoDB database manager into a [
 ## Installation
 
 * `ddev get valicm/ddev-dynamodb && ddev restart`
-

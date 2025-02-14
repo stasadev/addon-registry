@@ -78,4 +78,3 @@ Integration with popular CMSs and frameworks:
 
 - Laravel: [Open Telemetry
   package](https://github.com/spatie/laravel-open-telemetry)
-

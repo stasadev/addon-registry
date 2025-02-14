@@ -23,4 +23,3 @@ Uses [typesense official image](https://hub.docker.com/r/typesense/typesense/)
 From within the container, the typesense container is reached at hostname: "typesense", port: 8108.
 
 **Originally Contributed by [torhoehn](https://github.com/torhoehn)**
-

@@ -206,4 +206,3 @@ This will require you to restart your ddev box `ddev restart`.
 ## Maintainer
 
 - Contributed and maintained by [Marco Hermo](https://github.com/ssmarco).
-

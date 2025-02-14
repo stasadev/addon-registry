@@ -29,4 +29,3 @@ In DDEV addons can be installed from the command line using the `ddev add-on` co
 
 
 **Contributed and maintained by [@penyaskito](https://github.com/penyaskito). Thanks to [@Lullabot](https://github.com/lullabot) for their support!**
-

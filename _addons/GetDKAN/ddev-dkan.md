@@ -36,4 +36,3 @@ Now run the tests:
 ```
 
 These tests will run on every push to the Github repo.
-

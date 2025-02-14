@@ -122,4 +122,3 @@ ddev restart
 ddev-pdfreactor is distributed under the [Apache 2.0 license](https://github.com/blankse/ddev-pdfreactor/blob/main/LICENSE).
 
 **Contributed and maintained by [@blankse](https://github.com/blankse)**
-

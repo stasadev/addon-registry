@@ -55,4 +55,3 @@ This project is not affiliated with or endorsed by [MindsDB](https://mindsdb.com
 
 **Based on the original [ddev-addon-template](https://github.com/ddev/ddev-addon-template).**  
 **Contributed and maintained by [meeva GmbH](https://meeva.de/).**
-

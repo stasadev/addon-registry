@@ -35,4 +35,3 @@ For earlier versions of DDEV run
 ```sh
 ddev get skeemer/ddev-wkhtmltox
 ```
-

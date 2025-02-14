@@ -74,4 +74,3 @@ Please read [our contribution guidelines](https://github.com/JanoPL/ddev-kibana/
 This project is licensed under the **APACHE license**.
 
 See [LICENSE](https://github.com/JanoPL/ddev-kibana/blob/main/LICENSE) for more information.
-

@@ -10,7 +10,6 @@ updated_at: 2024-06-30
 stars: 0
 ---
 
-
 # ddev-tightvnc
 
 [![tests](https://github.com/thursdaybw/ddev-tightvnc/actions/workflows/tests.yml/badge.svg)](https://github.com/thursdaybw/ddev-tightvnc/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2024.svg)
@@ -82,4 +81,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Acknowledgements
 - Thanks to the DDEV team for their support and contributions.
-

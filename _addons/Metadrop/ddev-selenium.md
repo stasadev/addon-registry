@@ -74,4 +74,3 @@ Example:
       com.ddev.site-name: ${DDEV_SITENAME}
       com.ddev.approot: ${DDEV_APPROOT}
 ```
-

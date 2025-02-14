@@ -73,4 +73,3 @@ See [The Varnish Reference Manual](https://varnish-cache.org/docs/6.5/reference/
 **Maintained by [@jedubois](https://github.com/jedubois) and [@rfay](https://github.com/rfay)**
 
 **Based on the original [ddev-contrib recipe](https://github.com/ddev/ddev-contrib/tree/master/docker-compose-services/varnish) pioneered by [rikwillems](https://github.com/rikwillems)**
-

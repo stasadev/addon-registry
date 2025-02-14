@@ -190,4 +190,3 @@ Feel free to send your improvements as [Pull request](https://github.com/OpenFor
 ## License
 
 [License](https://github.com/OpenForgeProject/ddev-woodoo-buildtools-magento/blob/main/./LICENSE) | by [Mathias Elle](https://www.linkedin.com/in/mathias-elle-842783102/)
-

@@ -47,4 +47,3 @@ ddev phpmyadmin
 ```
 
 **Contributed and maintained by [@rfay](https://github.com/rfay)**
-

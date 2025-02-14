@@ -63,4 +63,3 @@ MyDumper config can be adjusted with [mydumper.cnf](https://github.com/stasadev/
 See [MyDumper Wiki](https://github.com/mydumper/mydumper/wiki) for detailed usage.
 
 **Contributed and maintained by [@stasadev](https://github.com/stasadev)**
-

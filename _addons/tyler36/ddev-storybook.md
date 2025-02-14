@@ -114,4 +114,3 @@ This addon was originally created to work with Drupal and [storybook](https://ww
 PRs, especially with automated tests are welcome.
 
 **Contributed and maintained by [@tyler36](https://github.com/tyler36)**
-

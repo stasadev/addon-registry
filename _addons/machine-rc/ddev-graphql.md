@@ -33,4 +33,3 @@ To add a new service:
 - copy the `Dockerfile` from the `graphql/book` directory
 - adjust `docker-compose.graphql.yaml` to include the new service by duplicating the `graphql-book` service and changing the service name
   - adjust the `environment` section to expose the new service on a different port
-

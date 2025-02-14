@@ -64,4 +64,3 @@ dcmsend {PROJECT_URL} 4242 DIRECTORY +sd +ma --aetitle AETITLE --call AETITLE
 Replace `{PROJECT_URL}` with your actual project URL, and `DIRECTORY` with the path to the DICOM files you want to send.
 
 **Contributed and maintained by [@madebydaniz](https://github.com/madebydaniz)**
-

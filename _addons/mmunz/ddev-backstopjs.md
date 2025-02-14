@@ -131,4 +131,3 @@ If you want to change that edit the file [docker-compose.backstop.yaml](https://
 change the line in volumes to the path you want to use, move the files to the new directory and restart ddev.
 
 Make sure to remove the #ddev-generated line from the file to prevent ddev from making changes to it.
-

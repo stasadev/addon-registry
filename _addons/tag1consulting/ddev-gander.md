@@ -55,4 +55,3 @@ used](https://www.drupal.org/docs/develop/using-composer/manage-dependencies)):
 * To run a single test: `phpunit -c core profiles/demo_umami/tests/src/FunctionalJavascript/OpenTelemetryNodePagePerformanceTest.php`
 * To run all Gander tests: `phpunit -c core --group OpenTelemetry`
 * Check the Grafana dashboard via: _http://\<projectname\>.ddev.site:3000/_
-

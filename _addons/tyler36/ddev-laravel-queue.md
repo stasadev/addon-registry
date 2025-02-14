@@ -52,4 +52,3 @@ ddev restart
 2. Adds `.ddev/config.laravel-workers.yaml`, which starts the queue worker daemon.
 
 **Contributed and maintained by [tyler36](https://github.com/tyler36)**
-

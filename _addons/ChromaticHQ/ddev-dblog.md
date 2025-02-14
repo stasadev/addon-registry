@@ -79,4 +79,3 @@ Remember to turn off the db query logging. The logging is a drain on your applic
 ```sh
 ddev dblog off
 ```
-

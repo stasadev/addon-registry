@@ -178,4 +178,3 @@ type: drupal
 Don't forget to run `ddev restart` if `.ddev/config.yaml` has been updated.
 
 **Contributed and maintained by [@weitzman](https://github.com/weitzman)**
-

@@ -67,4 +67,3 @@ Once unlighthouse reports are generated, you can review them to identify areas f
 Happy optimization!
 
 **Contributed and maintained by [@Metadrop](https://github.com/Metadrop)**
-

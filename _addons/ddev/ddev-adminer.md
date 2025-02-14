@@ -50,4 +50,3 @@ Then you can just `ddev adminer` or use `ddev describe` to get the URL (`https:/
 
 **Contributed by [@bserem](https://github.com/bserem).**
 **Maintained by DDEV team.**
-

@@ -25,5 +25,3 @@ This is a work-in-progress for typesense in ddev!
 
 **Contributed and maintained by [@bserem](https://github.com/bserem)
 **Sponsored by [Annertech](https://www.annertech.com)
-
-

@@ -18,4 +18,3 @@ This repository allows you to quickly install the [S3 HTTP proxy](https://github
 
 1. `ddev get codemonauts/ddev-s3-http-proxy`
 2. `ddev restart`
-

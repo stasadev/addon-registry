@@ -72,4 +72,3 @@ For example, to set xhgui to use `Asia/Toyko` timezone for dates:
   ```
 
 **Contributed and maintained by [@tyler36](https://github.com/tyler36) based on the original [ddev-contrib PR](https://github.com/ddev/ddev-contrib/pull/128) by [@penyaskito](https://github.com/penyaskito)**
-

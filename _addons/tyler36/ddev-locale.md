@@ -93,4 +93,3 @@ For example: `LANG=en_AU.UTF-8`
 PRs are welcome, especially if they contain tests.
 
 **Contributed and maintained by [@tyler36](https://github.com/tyler36)**
-

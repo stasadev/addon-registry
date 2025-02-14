@@ -284,4 +284,3 @@ Anyone is welcome to submit a Pull Request to this repository.
 For more details on development processes, please read the [developer guide](https://github.com/julienloizelet/ddev-playwright/blob/main/./docs/DEVELOPER.md).
 
 **Contributed and maintained by [julienloizelet](https://github.com/julienloizelet)**
-

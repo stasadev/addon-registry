@@ -31,6 +31,3 @@ Details about how to lab-test this are in [Lab-testing a proxied environment](ht
 You can also find public proxies of varying reliability at [spys](https://spys.one/free-proxy-list/US/) and other places, and of course you would never trust them with any traffic, but they're useful for testing.
 
 **Contributed and maintained by [@rfay](https://github.com/rfay) based on the original [ddev-contrib recipe](https://github.com/ddev/ddev-contrib/tree/master/recipes/proxy).**
-
-
-

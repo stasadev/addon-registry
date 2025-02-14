@@ -40,6 +40,3 @@ ddev restart
 
 This recipe for ddev installs a .ddev/docker-compose.neos.yaml adding neos specific environment variables to the web container.
 And it adds the `ddev flow` command to run ./flow commands.
-
-
-

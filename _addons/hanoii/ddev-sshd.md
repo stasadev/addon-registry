@@ -69,4 +69,3 @@ ddev get https://github.com/hanoii/ddev-sshd/tarball/main
 ```
 
 **Contributed and maintained by [@hanoii](https://github.com/hanoii)**
-

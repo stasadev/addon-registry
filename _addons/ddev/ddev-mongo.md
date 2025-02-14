@@ -72,4 +72,3 @@ This command opens your browser to the Mongo Express page.
 **Originally contributed by [@wtfred](https://github.com/wtfred)**
 
 **Maintained by [@julienloizelet](https://github.com/julienloizelet)**
-

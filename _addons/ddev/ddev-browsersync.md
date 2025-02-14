@@ -228,4 +228,3 @@ You either have to decrease the number of files you’re watching or increase th
 PRs for install steps for specific frameworks are welcome.
 
 **Contributed and maintained by [tyler36](https://github.com/tyler36)**
-

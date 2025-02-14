@@ -39,4 +39,3 @@ ddev newman my_collection.json -e environment.json
 ```
 
 To view all the possible command line options, please [check the documentation](https://www.npmjs.com/package/newman#command-line-options).
-

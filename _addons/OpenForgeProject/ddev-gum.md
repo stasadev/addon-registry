@@ -59,4 +59,3 @@ gum
 ```
 
 Please refer to the documentation at <https://github.com/charmbracelet/gum#interaction>.
-

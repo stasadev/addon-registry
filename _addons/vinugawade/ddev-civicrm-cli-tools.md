@@ -175,4 +175,3 @@ The add-on includes automated tests written in [BATS](https://github.com/bats-co
 ## Acknowledgments
 
 Special thanks to the `CiviCRM` and `DDEV` communities for their tools and support!
-

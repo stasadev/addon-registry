@@ -68,5 +68,3 @@ To add a new service:
 - copy the `Dockerfile` from the `dotnet/Users.API` directory
 - adjust `docker-compose.dotnet.yaml` to include the new service by duplicating the `dotnet-users` service and changing the service name
   - adjust the `environment` section to expose the new service on a different port
-
-

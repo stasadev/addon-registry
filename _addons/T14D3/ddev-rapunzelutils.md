@@ -74,5 +74,3 @@ Executing in "web": "php bin/console cache:clear"
  [OK] Cache for the "dev" environment (debug=true) was successfully cleared.                                            
                                                                                                                         
 ```
-
-

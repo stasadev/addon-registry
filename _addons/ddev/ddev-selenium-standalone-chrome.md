@@ -116,4 +116,3 @@ If you use Behat as a test running, adjust your `behat.yml`
 ## Maintainer
 
 - Contributed and maintained by [@weitzman](https://github.com/weitzman).
-

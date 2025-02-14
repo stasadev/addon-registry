@@ -207,4 +207,3 @@ Cypress expects a directory structures containing the tests, plugins and support
 - This recipe forwards the Cypress GUI via an X11 / X410 server. Please ensure you have this working on your host system.
 
 **Contributed by [@tyler36](https://github.com/tyler36)**
-

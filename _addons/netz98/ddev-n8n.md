@@ -72,5 +72,3 @@ It's disabled by default.
 
 You can enable it by changing the variable `N8N_BASIC_AUTH_ACTIVE` in `.ddev/docker-compose.n8n.yaml` to `true`. 
 The username and password can be configured in the same file.
-
-

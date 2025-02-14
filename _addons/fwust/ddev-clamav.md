@@ -45,4 +45,3 @@ Then restart your project.
 ```shell
 ddev restart
 ```
-

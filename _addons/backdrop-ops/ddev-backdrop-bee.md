@@ -53,4 +53,3 @@ See the Release notes and the Changelog for details of changes between versions
 
 
 **Contributed and maintained by `@jenlampton` and `@wylbur`**
-

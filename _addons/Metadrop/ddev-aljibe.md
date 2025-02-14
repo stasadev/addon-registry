@@ -349,4 +349,3 @@ xdebug.profiler_output_name=trace.%c%p%r%u.out
 ```
 
 Review the php info (/admin/reports/status/php) page to review that the xdebug variables are setup properly after run ddev xdebug on, restart the project if necessary.
-

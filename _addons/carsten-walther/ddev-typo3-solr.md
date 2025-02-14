@@ -107,4 +107,3 @@ You are able to use the DDEV constants in yout local environment. Keep in mind t
 
 **Contributers**
 - [@erik-konrad](https://github.com/erik-konrad)
-

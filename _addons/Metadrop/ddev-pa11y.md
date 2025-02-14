@@ -72,4 +72,3 @@ To use this config file, you can run the Pa11y service with the following comman
 `ddev pa11y http://example.com --config=/tests/pa11y/config.json --reporter=junit`.
 
 **Contributed and maintained by [@Metadrop](https://github.com/Metadrop)**
-

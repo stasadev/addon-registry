@@ -51,4 +51,3 @@ ddev launch :8081/insecure/size:360:240/plain//web/path/to/image.png@avif
 This request would convert/return the file `web/path/to/image.png` into an AVIF thumbnail with the desired dimensions 360x240px.
 
 **Contributed and maintained by [@barbieswimcrew](https://github.com/barbieswimcrew)**
-

@@ -84,4 +84,3 @@ Then, run `ddev restart` to apply the changes.
 **Originally Contributed by [@Graloth](https://github.com/Graloth) in [ddev-contrib](https://github.com/ddev/ddev-contrib/tree/master/docker-compose-services/redis-commander)**
 
 **Maintained by [@julienloizelet](https://github.com/julienloizelet)**
-

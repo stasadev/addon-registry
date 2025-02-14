@@ -83,4 +83,3 @@ ddev solr -help
 ```
 
 **Maintained by [@b13](https://github.com/b13)**
-

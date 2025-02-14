@@ -60,4 +60,3 @@ ddev get https://github.com/hanoii/ddev-readme/tarball/main
 ```
 
 **Contributed and maintained by [@hanoii](https://github.com/hanoii)**
-

@@ -92,4 +92,3 @@ If you use Behat as a test running, adjust your `behat.yml`:
 - Contributed and maintained by [@bserem](https://github.com/bserem).
 - Sponsored by [Annertech](https://www.annertech.com)
 - Forked from [ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome) by [@weitzman](https://github.com/weitzman).
-

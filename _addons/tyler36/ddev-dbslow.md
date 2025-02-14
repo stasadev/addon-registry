@@ -76,4 +76,3 @@ As both addons mature, it is possible this functionality will merge into `ddev-d
 - [ ] Add support for Postgres
 
 **Contributed and maintained by [@tyler36](https://github.com/tyler36)**
-

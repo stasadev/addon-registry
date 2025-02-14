@@ -47,4 +47,3 @@ To login, provide the configured API key, `127.0.0.1` as the hostname, and `8108
 If you are using Drupal, you can use Search API and the Search API Typesense modules to connect to the running Typesense instance.
 
 **Originally Contributed by [kevinquillen](https://github.com/kevinquillen)**
-

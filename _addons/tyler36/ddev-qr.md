@@ -103,4 +103,3 @@ Using `ddev qr` or `ddev qr https` inside a Gitpod environment will encode the G
 PR are welcome, especially if they contain working tests.
 
 **Contributed and maintained by [@tyler36](https://github.com/tyler36)**
-

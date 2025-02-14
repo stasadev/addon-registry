@@ -56,4 +56,3 @@ Persistence is disabled by default (see [redis.conf](https://github.com/ddev/dde
 **Contributed and maintained by [@hussainweb](https://github.com/hussainweb) based on the original [ddev-contrib recipe](https://github.com/ddev/ddev-contrib/tree/master/docker-compose-services/redis) by [@gormus](https://github.com/gormus)**
 
 **Co-maintained by [@stasadev](https://github.com/stasadev)**
-

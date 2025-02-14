@@ -57,4 +57,3 @@ To start building your docs you can read the [Mkdocs getting started guide](http
 ### View the documentation
 
 Mkdocs documentation can be accesed in https://${PROJECT_NAME}.ddev.site:9005
-

@@ -50,4 +50,3 @@ You can run `ddev help wp-rename-tables-prefix` for help
 The command has not been tested in multisites installations
 
 Before running the command make sure to create a database snapshot `ddev snapshot` just in case.
-

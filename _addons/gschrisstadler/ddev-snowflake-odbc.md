@@ -31,4 +31,3 @@ Then restart your project
 ```bash
 ddev restart
 ```
-

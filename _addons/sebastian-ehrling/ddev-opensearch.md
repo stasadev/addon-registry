@@ -34,4 +34,3 @@ You can use `ddev logs -s opensearch` to investigate what the elasticsearch daem
 
 ## Additional Resources
 **Maintained by [@sebastian-ehrling](https://github.com/sebastian-ehrling)**
-

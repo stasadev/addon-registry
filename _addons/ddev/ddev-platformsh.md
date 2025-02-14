@@ -92,4 +92,3 @@ These Platform.sh templates are included in the automated tests that run nightly
 - [ ] Let us know what's important to you!
 
 **Maintained by [@rfay](https://github.com/rfay)**
-

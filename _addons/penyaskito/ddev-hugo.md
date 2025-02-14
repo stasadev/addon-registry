@@ -31,4 +31,3 @@ In DDEV addons can be installed from the command line using the `ddev add-on get
 4. Run `ddev launch`
 
 **Contributed and maintained by [@penyaskito](https://github.com/penyaskito)**
-

@@ -35,4 +35,3 @@ This Keycloak recipe for [DDEV](https://ddev.readthedocs.io) installs a [`.ddev/
 
 1. [Official documentation](https://keycloak.org)
 2. [Official repository](https://github.com/keycloak/keycloak)
-

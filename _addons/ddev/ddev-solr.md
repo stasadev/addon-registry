@@ -248,4 +248,3 @@ handle NLP models. So DDEV could be used with [search_api_solr_nlp](https://www.
 ddev-solr supports third party Solr plugins/modules/libraries.
 
 **Contributed and maintained by [@mkalkbrenner](https://github.com/mkalkbrenner)**
-

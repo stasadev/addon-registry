@@ -29,5 +29,3 @@ This selenium standalone chrome recipe for [ddev](https://ddev.readthedocs.io) i
 
 * The selenium chrome instance will listen on TCP port 4444.
 * For debugging use `selenium/standalone-chrome-debug:latest` image and add port mapping for vnc, reachable at `vnc://localhost:6000`, if you get a prompt asking for a password, it is: `secret`.
-
-

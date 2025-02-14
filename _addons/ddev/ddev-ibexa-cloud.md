@@ -30,4 +30,3 @@ This add-on provides integration for Ibexa Cloud and adds the `ddev ibexa_cloud`
 
 
 **Contributed and maintained by [@rfay](https://github.com/rfay)**
-

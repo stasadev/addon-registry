@@ -44,4 +44,3 @@ The qdrant collections will be created as folder in  `.ddev/qdrant_data/collecti
 ## Logging
 
 qdrant logs are directed to the container's stdout. You can view the logs with `ddev logs -s qdrant`.
-

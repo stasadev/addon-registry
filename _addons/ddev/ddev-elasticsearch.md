@@ -63,4 +63,3 @@ You can use `ddev logs -s elasticsearch` to investigate the Elasticsearch daemon
 **Originally Contributed by [dacostafilipe](https://github.com/dacostafilipe) with contributions by [@Morgy93](https://github.com/Morgy93), [@amitaibu](https://github.com/amitaibu), [@aronnovak](https://github.com/aronnovak) and others**
 
 **Maintained by [@aronnovak](https://github.com/aronnovak)**
-

@@ -39,4 +39,3 @@ Also, it will be available on the url `https://pgadmin.yourprojectname.ddev.site
 > For Gitpod: The `ddev pgadmin` command can open a blank page in preview mode, open the link in a new browser tab/window to make it work.
 
 **Contributed and maintained by [@MurzNN](https://github.com/MurzNN)**
-

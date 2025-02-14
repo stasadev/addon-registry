@@ -56,4 +56,3 @@ ddev restart
 None. Addon works out-of-the-box.
 
 **Developed and maintained by [Oblak Studio](https://github.com/oblakstudio)**
-

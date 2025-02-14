@@ -58,4 +58,3 @@ User: `stirling`
 Password: `stirling`
 
 **Maintained by [@b13](https://github.com/b13)**
-

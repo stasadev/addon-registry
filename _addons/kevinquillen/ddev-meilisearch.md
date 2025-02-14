@@ -64,4 +64,3 @@ Meilisearch](https://www.drupal.org/project/search_api_meilisearch)
 modules to connect to the running Meilisearch instance.
 
 **Originally Contributed by [kevinquillen](https://github.com/kevinquillen)**
-

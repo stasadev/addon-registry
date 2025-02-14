@@ -87,4 +87,3 @@ The main goals of this add-on are the following:
 * inside **DDEV** with the **project's dependencies** (node version, vite version...)
 * without leaking **ports** to the host system (by using a dedicated subdomain)
 * with a simple CLI wrapper around vite's CLI
-

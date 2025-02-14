@@ -100,4 +100,3 @@ ddev kc --help
 * Example [themes](https://github.com/keycloak/keycloak/tree/main/examples/themes/src/main/resources/theme)
 
 **Maintained by [@b13](https://github.com/b13)**
-

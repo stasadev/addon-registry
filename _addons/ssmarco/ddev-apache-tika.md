@@ -138,4 +138,3 @@ If you have a good amount of CPU's and memory, you can increase the value of `me
 ## Maintainer
 
 - Contributed and maintained by [Marco Hermo](https://github.com/ssmarco).
-

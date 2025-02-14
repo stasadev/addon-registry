@@ -88,4 +88,3 @@ ___
 
 **Based on the original [ddev-contrib recipe](https://github.com/ddev/ddev-contrib/tree/master/docker-compose-services/mongodb)**  
 **Developed and maintained by [Oblak Studio](https://github.com/oblakstudio)**
-

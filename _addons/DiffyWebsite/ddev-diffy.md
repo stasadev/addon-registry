@@ -31,4 +31,3 @@ To run the screenshots do `ddev screenshot`. It will produce a URL to your scree
 Remember to check our [documentation page](https://docs.diffy.website/features/local-development/ddev-add-on). 
 
 **Contributed and maintained by [@ygerasimov](https://github.com/ygerasimov)**
-

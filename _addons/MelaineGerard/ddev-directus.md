@@ -70,4 +70,3 @@ Example url : [https://simple-php-project.ddev.site:8055](https://simple-php-pro
 ## Maintained By
 
 - [Melaine gérard](https://github.com/MelaineGerard)
-

@@ -54,4 +54,3 @@ After installation, you can run Python2:
 This add-on also adds packages that are normally required for `npm` build, see [config.python2.yaml](https://github.com/stasadev/ddev-python2/blob/main/./config.python2.yaml). Remove or replace the contents of this file if you only need Python2.
 
 **Contributed and maintained by [@stasadev](https://github.com/stasadev)**
-

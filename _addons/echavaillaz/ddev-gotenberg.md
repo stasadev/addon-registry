@@ -51,4 +51,3 @@ This Gotenberg recipe for [DDEV](https://ddev.readthedocs.io) installs a [`.ddev
 1. [Official documentation](https://gotenberg.dev)
 2. [Official repository](https://github.com/gotenberg/gotenberg)
 3. [Awesome Gotenberg](https://github.com/gotenberg/awesome-gotenberg)
-

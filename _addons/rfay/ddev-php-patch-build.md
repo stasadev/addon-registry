@@ -54,4 +54,3 @@ You can choose a different PHP version, the command below creates a `.ddev/.env.
 
 
 **Contributed and maintained by [@rfay](https://github.com/rfay)**
-

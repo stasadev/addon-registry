@@ -90,4 +90,3 @@ You can can customize the command by removing `#ddev-generated` from `~/.ddev/co
 Note, this will prevent DDEV from updating the command.
 
 **Contributed and maintained by [@tyler36](https://github.com/tyler36)**
-

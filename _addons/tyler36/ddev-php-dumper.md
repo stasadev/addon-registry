@@ -161,4 +161,3 @@ ddev restart
 For more information, see [The Dump Server](https://symfony.com/doc/current/components/var_dumper.html).
 
 **Contributed and maintained by [@tyler36](https://github.com/tyler36)**
-

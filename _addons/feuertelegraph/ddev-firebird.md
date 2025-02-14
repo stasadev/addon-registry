@@ -27,5 +27,3 @@ This Firebird recipe for [DDEV](https://ddev.readthedocs.io) installs a [`.ddev/
 
 * The Firebird database will listen on TCP port 3050 (the Firebird default).
 * Configure your application to access the database on the host `firebird` and the path to the database is `/firebird/data/db.fdb`.
-
-

@@ -98,4 +98,3 @@ Project-type files are also welcome. However, please take care to keep them as m
 We all have our preferred setup environment and "essential" extensions and add-ons. They are outside this add-ons scope. @see [customizations](#customizing).
 
 **Contributed and maintained by [@tyler36](https://github.com/tyler36)**
-

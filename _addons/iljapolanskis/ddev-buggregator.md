@@ -71,5 +71,3 @@ $log->pushHandler($handler);
 // Send records to the Buggregator
 $log->warning(print_r($handler, true));
 ```
-
-

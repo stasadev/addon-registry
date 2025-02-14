@@ -77,4 +77,3 @@ You can view the logs with `ddev logs -s opensearch` and `ddev logs -s opensearc
 **Contributed and maintained by [@cmuench](https://github.com/cmuench) from [@netz98](https://github.com/netz98) org**
 
 **Co-maintained by [@stasadev](https://github.com/stasadev)**
-

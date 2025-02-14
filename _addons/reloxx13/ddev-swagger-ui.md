@@ -47,8 +47,3 @@ To upgrade your version of ddev-swagger-ui, repeat the `ddev get reloxx13/ddev-s
    * BASE_URL=/
    * SWAGGER_JSON=/var/www/html/swagger.json
    * SWAGGER_JSON_URL=
-
-
-
-
-

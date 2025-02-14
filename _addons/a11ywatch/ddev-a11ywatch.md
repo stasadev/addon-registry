@@ -51,4 +51,3 @@ This A11yWatch recipe for [ddev](https://ddev.readthedocs.io) installs a [`.ddev
 1. Add web panel option start using the `a11ywatch/web` image.
 
 **Contributed by [j-mendez](https://github.com/j-mendez)**
-

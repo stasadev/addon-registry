@@ -87,4 +87,3 @@ hooks:
 ```
 
 **Contributed and maintained by [@tyler36](https://github.com/tyler36)**
-

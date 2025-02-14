@@ -68,5 +68,3 @@ Anyone is welcome to submit a PR to this repo.
 **Contributed and maintained by [julienloizelet](https://github.com/julienloizelet)**
 
 **Originally Contributed by [@davidjguru](https://github.com/davidjguru) in [ddev-contrib](https://github.com/ddev/ddev-contrib/tree/master/docker-compose-services/portainer)**
-
-

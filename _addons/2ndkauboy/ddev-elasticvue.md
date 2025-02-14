@@ -57,4 +57,3 @@ Elasticvue is a free and open-source gui for elasticsearch that you can use to m
 
 **Elasticvue is maintained by [@cars10](https://github.com/cars10)**  
 **DDEV Elasticvue is maintained by [@2ndkauboy](https://github.com/2ndkauboy)**
-

@@ -97,4 +97,3 @@ For more information about using Vite with DDEV,
 - Matthias Andrasch's excellent blog post - [Working with Vite in DDEV - an introduction](https://ddev.com/blog/working-with-vite-in-ddev/).
 
 **Contributed and maintained by `tyler36`**
-
