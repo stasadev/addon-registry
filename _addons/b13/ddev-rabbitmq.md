@@ -9,8 +9,8 @@ ddev_version_constraint: ""
 dependencies: []
 type: contrib
 created_at: 2023-10-17
-updated_at: 2025-04-14
-stars: 7
+updated_at: 2025-04-16
+stars: 8
 ---
 
 # RabbitMQ
