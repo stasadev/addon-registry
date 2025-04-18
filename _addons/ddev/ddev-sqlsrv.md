@@ -1,7 +1,7 @@
 ---
 title: ddev/ddev-sqlsrv
 github_url: https://github.com/ddev/ddev-sqlsrv
-description: "MS SQL server add-on for DDEV"
+description: "Microsoft SQL Server database support for DDEV"
 user: ddev
 repo: ddev-sqlsrv
 repo_id: 618290272
@@ -9,7 +9,7 @@ ddev_version_constraint: ">= v1.24.3"
 dependencies: []
 type: official
 created_at: 2023-03-24
-updated_at: 2025-04-14
+updated_at: 2025-04-17
 stars: 4
 ---
 
