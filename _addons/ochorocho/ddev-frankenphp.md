@@ -9,8 +9,8 @@ ddev_version_constraint: ""
 dependencies: []
 type: contrib
 created_at: 2024-02-11
-updated_at: 2025-04-11
-stars: 17
+updated_at: 2025-04-18
+stars: 18
 ---
 
 # FrankenPHP Add-On for DDEV
